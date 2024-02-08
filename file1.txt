@@ -1,1 +1,2 @@
 Content of file 1
+Changes in branch1
